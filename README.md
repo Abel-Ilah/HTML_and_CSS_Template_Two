@@ -7,11 +7,11 @@ and ensuring the design's fidelity from the PSD to the final webpage.
 
 >> The PSD file: 
  
-  --> source : https://www.graphberry.com/item/kasper-one-page-psd-template
+  --> source       : https://www.graphberry.com/item/kasper-one-page-psd-template
   
-  --> price : Free.
+  --> price        : Free.
 
->> My project Demo : 
+>> My project Demo : https://abel-ilah.github.io/HTML_and_CSS_Template_Two/
 
 
 
